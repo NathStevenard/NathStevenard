@@ -1,4 +1,6 @@
 ## Hi there 👋
+I am a paleoclimatologist (PhD) working on data reconstructions, compilations and comparisons with climate model simulations. My research focuses on ocean dynamics at the end of the Pleistocene, and more specifically during past warm periods called Interglacials.
+In my Github, you'll find code (Python) I've developed and used to accompany my peer-reviewed papers. 
 
 <!--
 **NathStevenard/NathStevenard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
