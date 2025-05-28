@@ -8,6 +8,7 @@ I'm a paleoclimatologist (PhD 🎓) working on ocean dynamics during the late Pl
 - 💻 Python, MATLAB
 - 🐙 Git, GitHub, PyCharm, JupyterLab
 - 🥼 Sediment analysis: grain-size 📏, X-ray fluorescence ⚛, magnetism 🧲
+- 💻 Data compilation, calibration and harmonization
 
 ## 📈 Current Projects
 - 🌊 A data-driven (ML) model of deep ocean overflow strength over the last 800,000 years
@@ -17,7 +18,8 @@ I'm a paleoclimatologist (PhD 🎓) working on ocean dynamics during the late Pl
 ## 📚 Learning
 - GitHub basics 😅
 - Object-Oriented Programming (OOP) in Python 🐍
-- Improving my English 🇬🇧
+- Climate model simulation and advanced data-assimilation framework
+- Improving my English skills 🇬🇧
 
 ## 🤝 Open to Collaborations on:
 - Deep ocean dynamics
